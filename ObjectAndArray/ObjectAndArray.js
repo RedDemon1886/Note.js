@@ -8,7 +8,7 @@ let info =[
     phone.model,
     phone.memory,
 ];
-for (var i = 0; i<info.length; i++){
+for (var i = 0; i<3; i++){
     console.log(info[i]);
 }
 
